@@ -1,0 +1,2 @@
+.print : print with todo delete
+	ANY   →   print($expr$) #todo delete it
